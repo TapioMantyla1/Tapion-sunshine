@@ -1,4 +1,0 @@
-- copy:
-    dest: /tmp/hello-ansible
-    content: "See you at TeroKarvinen.com!\n"
-    
